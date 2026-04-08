@@ -1,0 +1,13 @@
+name: Code Review Environment
+version: 1.0
+
+observation_space:
+  task: string
+  code: string
+
+action_space:
+  response: string
+
+reward:
+  type: float
+  range: [0, 1]
