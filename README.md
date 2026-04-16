@@ -62,6 +62,4 @@ docker run openenv
 * Optimization: 1.0
 * Security Detection: 1.0
 
-## Author
 
-OpenEnv Hackathon Submission
