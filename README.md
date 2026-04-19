@@ -56,10 +56,5 @@ docker build -t openenv .
 docker run openenv
 ```
 
-## Baseline Performance
-
-* Bug Detection: 1.0
-* Optimization: 1.0
-* Security Detection: 1.0
 
 
